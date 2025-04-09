@@ -1,0 +1,110 @@
+html{
+background-color: rgb(146, 231, 19);
+}
+
+body {
+font-family: Nunito, 'Open Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-image:url(../img/328526.jpg);
+width: 80%;
+margin-left: 9%;
+margin-right: 25%;
+margin-top: 0%;
+border-style: double;
+border-width: 10px;
+border-color: aliceblue;
+min-height: 100%;
+}
+
+
+
+h1 {
+color:rgb(83, 186, 57); 
+text-align: center;
+text-shadow: white 1px 1px;
+}
+
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.primera, .cuarta {
+    width: 60%;
+    margin: 20px; 30px; 40px; 10px;
+    background-color: white;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-top: rgba(165, 249, 178, 0.74) 5px solid;
+    border-left: rgba(165, 249, 178, 0.74) 5px solid;
+    border-bottom: rgba(165, 249, 178, 0.74) 5px solid;
+    border-right: rgba(165, 249, 178, 0.74) 18px solid;
+    padding-left: 20px; 
+    padding-right: 120px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+        }
+        
+    .segunda, .quinta {
+    width: 60%;
+    margin: 20px; 30px; 40px; 10px;
+    margin-left: 30%;
+    background-color: white;
+    padding: 1em;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    border-top: rgba(165, 249, 178, 0.74) 5px solid;
+    border-left: rgba(165, 249, 178, 0.74) 18px solid;
+    border-bottom: rgba(165, 249, 178, 0.74) 5px solid;
+    border-right: rgba(165, 249, 178, 0.74) 5px solid;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+.tercera, .sexta {
+    width: 60%;
+    margin: 20px; 30px; 40px; 10px;
+    margin: auto;
+    background-color: white;
+    padding: 1em;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    border-top: green 8px solid;
+    border-left: green 8px solid;
+    border-bottom: yellowgreen 8px solid;
+    border-right: yellowgreen 8px solid;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+.span {
+color:rgb(214, 13, 13);
+font-weight: bold;
+}
+
+.marca {
+background-color: yellow
+}
+
+.video {
+text-align: center;
+}
+
+.derecha {
+text-align: right;
+}
+
+.izquierda {
+text-align: left;
+}
+
+.centro {
+text-align: center;
+}
+
+
+
+
